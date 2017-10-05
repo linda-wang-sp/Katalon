@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6c702014-d34d-4cf6-b5ec-6748eae9dbd2</testCaseGuid>
+   <variable>
+      <defaultValue>'spadmin'</defaultValue>
+      <description></description>
+      <id>1094b095-e981-4f3e-b801-e0c14c5ce4da</id>
+      <masked>false</masked>
+      <name>login_username</name>
+   </variable>
+   <variable>
+      <defaultValue>'admin'</defaultValue>
+      <description></description>
+      <id>6690a9b4-cab9-405c-a9fb-56d6b6a3793d</id>
+      <masked>false</masked>
+      <name>login_password</name>
+   </variable>
+   <variable>
+      <defaultValue>'http://localhost:8080/identityiq/login.jsf'</defaultValue>
+      <description></description>
+      <id>dcd8a303-9225-46b8-a529-48a6d225747f</id>
+      <masked>false</masked>
+      <name>home_url</name>
+   </variable>
+</TestCaseEntity>
